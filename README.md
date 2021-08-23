@@ -1,5 +1,7 @@
 # SHU_Selfreport
 
+上海大学每日一报
+
 使用selenium配合win10的任务计划程序实现每日一报自动填报
 
 首先下载谷歌浏览器对应版本的chromedriver.exe，记住其路径，在selfreport.py 文件的对应路径更改为你的电脑上chromedriver.exe的位置
